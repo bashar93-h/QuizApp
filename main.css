@@ -1,0 +1,363 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma, Arial;
+    background-color: #09001d;
+}
+
+/* quiz details section */
+.quiz-details {
+    width: 450px;
+    border: 2px solid #d61694;
+    margin: 150px auto;
+    border-radius: 6px;
+    padding: 20px;
+    color: white;
+    display: none;
+    opacity: 0;
+    animation: details 1.5s linear .5s forwards;
+}
+@media (max-width: 768px){
+    .quiz-details {
+        width: 300px;
+    }
+}
+.quiz-details h2 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.quiz-details .menu {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+.quiz-details .menu label {
+    margin-bottom: 10px;
+}
+.quiz-details .menu select {
+    height: 35px;
+    font-size: 15px;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 5px;
+}
+.quiz-details #start {
+    display: block;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 34px auto 10px;
+    outline: none;
+    border: 2px solid #c40094;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: .3s;
+}
+.quiz-details #start:hover {
+    background-color: #c40094;
+}
+
+/* quiz app section */
+.quiz-app {
+    width: 800px;
+    margin: 100px auto;
+    background-color: #09001d;
+    padding: 20px;
+    border-radius: 6px;
+    border: 2px solid #d61694;
+    color: white;
+    display: none;
+    opacity: 0;
+    animation: details 1.5s linear .5s forwards;
+}
+@media (max-width: 768px){
+    .quiz-app {
+        width: 300px;
+    }    
+}
+.quiz-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px;
+    background-color: #700c5a;
+    background: linear-gradient(45deg, transparent, #c40094, transparent);
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+@media (max-width: 768px){
+    .quiz-info {
+        flex-direction: column;
+    }
+}
+
+.quiz-area {
+    background-color: #c4009491;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+@media (max-width: 768px){
+    .quiz-area h2 {
+        font-size: 18px;
+    }
+}
+.answers-area {
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+@media (max-width: 768px){
+    .answers-area {
+        padding: 0px;
+    }
+}
+.answers-area .answer {
+    display: flex;
+    background-color: #c4009491;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    border-bottom: 1px solid white;
+    transition: .2s;
+    cursor: pointer;
+    font-weight: bold;
+}
+@media (max-width: 768px){
+    .answers-area .answer {
+        font-size: 14px;
+    }
+}
+
+.answers-area .answer:has(input:checked){
+    transform: scale(1.03);
+}
+
+.answers-area .answer input{
+    margin-right: 10px;
+}
+
+.answers-area .answer input:checked + label{
+    color: #FFD700;
+}
+
+.timerAndSubmit{
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+@media (max-width: 768px) {
+    .timerAndSubmit {
+        flex-direction: column;
+    }
+    .countdown {
+        order: 2;
+    }
+    .submit-button {
+        order: 1;
+        margin-bottom: 20px;
+    }
+}
+
+.countdown {
+    flex: 1;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.submit-button {
+    border-radius: 6px;
+    border: none;
+    width: 200px;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid #eee;
+    transition: .3s;
+    background-color: transparent;
+    color: white;
+    @media (max-width: 768px){
+        margin-top: 15px;
+    }
+}
+
+.submit-button:hover {
+    background-color: #c40094;
+    color: white;
+}
+
+.bullets {
+    background-color: #eeeeee7a;
+    border-radius: 6px;
+}
+.bullets .spans {
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
+.bullets .spans span{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #ddd;
+    margin-right: 10px;
+}
+@media (max-width: 768px) {
+    .bullets .spans span{
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+    }
+}
+.bullets .spans span.done {
+    background-color: #c40094;
+}
+
+
+/*  results section */
+.results {
+    width: 400px;
+    margin: 150px auto;
+    border: 2px solid #d61694;
+    color: white;
+    padding: 20px;
+    border-radius: 6px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    opacity: 0;
+    animation: details 1.5s linear .5s forwards;
+}
+@media (max-width: 768px){
+   .results {
+    width: 300px;
+   } 
+}
+.results h2 {
+    color: #d61694;
+    font-size: 40px;
+}
+
+.results .progress {
+    width: 300px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.results .progress .circular-progress {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#700c5a 0deg, rgba(255, 255, 255, .1) 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.results .progress .circular-progress::before {
+    content: "";
+    position: absolute;
+    width: 170px;
+    height: 170px;
+    background-color: #09001d;
+    border-radius: 50%;
+}
+.results .progress .circular-progress .progress-value {
+    font-size: 30px;
+    font-weight: bold;
+    z-index: 3;
+}
+.results .score {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.results .feedback {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.results .controls{
+    display: flex;
+    gap: 15px;
+}
+.results button {
+    border: 1px solid #700c5a;
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .3s;
+}
+@media (max-width: 768px){
+    .results button{
+        width: 120px;
+    }
+}
+.results button:hover {
+    background-color: #700c5a;
+}
+
+
+
+/* animations */
+
+.loading {
+    display: flex;
+    height: 100vh;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading span {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    animation: loading .6s infinite alternate;
+}
+@media (max-width: 768px){
+    .loading span{
+        width: 30px;
+        height: 30px;
+    }
+}
+
+.loading span:nth-child(2) {
+    animation-delay: .2s;
+}
+.loading span:nth-child(3) {
+    animation-delay: .4s;
+}
+
+@keyframes loading {
+    to {
+        transform: translateY(-20px);
+        opacity: 0.3;
+    }
+}
+
+@keyframes details {
+    to {
+        opacity: 1;
+    }
+}

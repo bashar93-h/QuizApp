@@ -1,0 +1,1536 @@
+[
+    {
+        "category":"programming",
+        "levels":[
+            {
+                "difficulty":"easy",
+                "questions":
+                    [
+                        {
+                            "title": "What Does HTML Stand For?",
+                            "option_1": "Hyper Text Markup Language",
+                            "option_2": "Home Tool Markup Language",
+                            "option_3": "Hyperlinks and Text Markup Language",
+                            "option_4": "High Text Markup Language",
+                            "correct_answer": "Hyper Text Markup Language"
+                        },
+                        {
+                            "title": "Which HTML Tag is Used to Define a Paragraph?",
+                            "option_1": "<p>",
+                            "option_2": "<paragraph>",
+                            "option_3": "<pg>",
+                            "option_4": "<text>",
+                            "correct_answer": "<p>"
+                        },
+                        {
+                            "title": "What is the Purpose of the <br> Tag in HTML?",
+                            "option_1": "To Add a Break Line",
+                            "option_2": "To Bold Text",
+                            "option_3": "To Add a Page Break",
+                            "option_4": "To Add a Space",
+                            "correct_answer": "To Add a Break Line"
+                        },
+                        {
+                            "title": "Which HTML Element is Used to Create a Hyperlink?",
+                            "option_1": "<link>",
+                            "option_2": "<a>",
+                            "option_3": "<href>",
+                            "option_4": "<hyperlink>",
+                            "correct_answer": "<a>"
+                        },
+                        {
+                            "title": "What is the Correct HTML Tag to Create a Numbered List?",
+                            "option_1": "<ul>",
+                            "option_2": "<ol>",
+                            "option_3": "<list>",
+                            "option_4": "<li>",
+                            "correct_answer": "<ol>"
+                        },
+                        {
+                            "title": "Which HTML Tag is Used to Insert an Image?",
+                            "option_1": "<img>",
+                            "option_2": "<image>",
+                            "option_3": "<pic>",
+                            "option_4": "<src>",
+                            "correct_answer": "<img>"
+                        },
+                        {
+                            "title": "What is the Default Font Size for HTML Text?",
+                            "option_1": "12px",
+                            "option_2": "14px",
+                            "option_3": "16px",
+                            "option_4": "18px",
+                            "correct_answer": "16px"
+                        },
+                        {
+                            "title": "What is the Correct HTML Element for a Line Break?",
+                            "option_1": "<break>",
+                            "option_2": "<lb>",
+                            "option_3": "<br>",
+                            "option_4": "<line>",
+                            "correct_answer": "<br>"
+                        },
+                        {
+                            "title": "Which CSS Property is Used to Change Text Color?",
+                            "option_1": "text-color",
+                            "option_2": "font-color",
+                            "option_3": "color",
+                            "option_4": "background-color",
+                            "correct_answer": "color"
+                        },
+                        {
+                            "title": "What Does the <b> Tag Do in HTML?",
+                            "option_1": "It Adds a Break Line",
+                            "option_2": "It Makes Text Bold",
+                            "option_3": "It Adds Background Color",
+                            "option_4": "It Italicizes Text",
+                            "correct_answer": "It Makes Text Bold"
+                        },
+                        {
+                            "title": "Which CSS Property is Used to Set the Background Color?",
+                            "option_1": "color",
+                            "option_2": "background-color",
+                            "option_3": "bgcolor",
+                            "option_4": "back-color",
+                            "correct_answer": "background-color"
+                        },
+                        {
+                            "title": "Which HTML Attribute is Used to Define Styles?",
+                            "option_1": "class",
+                            "option_2": "style",
+                            "option_3": "id",
+                            "option_4": "css",
+                            "correct_answer": "style"
+                        },
+                        {
+                            "title": "What Does the <h1> Tag Represent in HTML?",
+                            "option_1": "Header Section",
+                            "option_2": "Main Heading",
+                            "option_3": "Subheading",
+                            "option_4": "Highlighted Text",
+                            "correct_answer": "Main Heading"
+                        },
+                        {
+                            "title": "Which CSS Property Controls the Font Size?",
+                            "option_1": "text-size",
+                            "option_2": "font-style",
+                            "option_3": "font-size",
+                            "option_4": "text-style",
+                            "correct_answer": "font-size"
+                        },
+                        {
+                            "title": "What is the Correct Syntax to Link a CSS File in HTML?",
+                            "option_1": "<link rel='stylesheet' href='style.css'>",
+                            "option_2": "<stylesheet link='style.css'>",
+                            "option_3": "<css href='style.css'>",
+                            "option_4": "<link src='style.css'>",
+                            "correct_answer": "<link rel='stylesheet' href='style.css'>"
+                        }                
+                    ]
+            },
+            {
+                "difficulty":"medium",
+                "questions":
+                    [
+                        {
+                            "title": "What is the purpose of the <!DOCTYPE html> declaration?",
+                            "option_1": "To specify the HTML version",
+                            "option_2": "To create a hyperlink",
+                            "option_3": "To define a title for the document",
+                            "option_4": "To link external CSS files",
+                            "correct_answer": "To specify the HTML version"
+                        },
+                        {
+                            "title": "Which property is used to center text in CSS?",
+                            "option_1": "align: center;",
+                            "option_2": "text-align: center;",
+                            "option_3": "center-text: true;",
+                            "option_4": "justify: center;",
+                            "correct_answer": "text-align: center;"
+                        },
+                        {
+                            "title": "What does the z-index property do in CSS?",
+                            "option_1": "Controls the horizontal position of an element",
+                            "option_2": "Controls the vertical position of an element",
+                            "option_3": "Controls the stacking order of elements",
+                            "option_4": "Controls the font size of an element",
+                            "correct_answer": "Controls the stacking order of elements"
+                        },
+                        {
+                            "title": "Which HTML tag is used to create a dropdown list?",
+                            "option_1": "<select>",
+                            "option_2": "<dropdown>",
+                            "option_3": "<list>",
+                            "option_4": "<option>",
+                            "correct_answer": "<select>"
+                        },
+                        {
+                            "title": "What is the correct HTML element for inserting a line break?",
+                            "option_1": "<br>",
+                            "option_2": "<break>",
+                            "option_3": "<lb>",
+                            "option_4": "<line>",
+                            "correct_answer": "<br>"
+                        },
+                        {
+                            "title": "Which CSS property controls the spacing between lines of text?",
+                            "option_1": "line-height",
+                            "option_2": "text-spacing",
+                            "option_3": "spacing",
+                            "option_4": "letter-spacing",
+                            "correct_answer": "line-height"
+                        },
+                        {
+                            "title": "What is the purpose of the <meta> tag in HTML?",
+                            "option_1": "To create a link to a CSS file",
+                            "option_2": "To specify metadata about the HTML document",
+                            "option_3": "To define JavaScript functions",
+                            "option_4": "To create a header for the document",
+                            "correct_answer": "To specify metadata about the HTML document"
+                        },
+                        {
+                            "title": "How do you add a comment in CSS?",
+                            "option_1": "// This is a comment",
+                            "option_2": "<!-- This is a comment -->",
+                            "option_3": "/* This is a comment */",
+                            "option_4": "# This is a comment",
+                            "correct_answer": "/* This is a comment */"
+                        },
+                        {
+                            "title": "What does the 'float' property do in CSS?",
+                            "option_1": "Sets the position of an element",
+                            "option_2": "Allows elements to be positioned next to each other",
+                            "option_3": "Changes the opacity of an element",
+                            "option_4": "Adjusts the size of an element",
+                            "correct_answer": "Allows elements to be positioned next to each other"
+                        },
+                        {
+                            "title": "Which HTML tag is used to define an internal style sheet?",
+                            "option_1": "<style>",
+                            "option_2": "<css>",
+                            "option_3": "<script>",
+                            "option_4": "<link>",
+                            "correct_answer": "<style>"
+                        },
+                        {
+                            "title": "What does the 'display' property do in CSS?",
+                            "option_1": "Changes the background color",
+                            "option_2": "Controls the layout of an element",
+                            "option_3": "Sets the font style",
+                            "option_4": "Defines the border of an element",
+                            "correct_answer": "Controls the layout of an element"
+                        },
+                        {
+                            "title": "Which attribute is used to specify the URL of an image in the <img> tag?",
+                            "option_1": "src",
+                            "option_2": "href",
+                            "option_3": "url",
+                            "option_4": "link",
+                            "correct_answer": "src"
+                        },
+                        {
+                            "title": "Which property is used to change the font of an element in CSS?",
+                            "option_1": "font-family",
+                            "option_2": "font-style",
+                            "option_3": "font-weight",
+                            "option_4": "font-type",
+                            "correct_answer": "font-family"
+                        },
+                        {
+                            "title": "What is the correct syntax for applying a CSS class to an HTML element?",
+                            "option_1": "<element class='classname'>",
+                            "option_2": "<element class='classname'/>",
+                            "option_3": "<element class='classname'></element>",
+                            "option_4": "<element class='classname'> </element>",
+                            "correct_answer": "<element class='classname'>"
+                        },
+                        {
+                            "title": "What does the 'display: flex;' property do in CSS?",
+                            "option_1": "Aligns items horizontally in a container.",
+                            "option_2": "Applies a grid layout to the container.",
+                            "option_3": "Creates a block-level element.",
+                            "option_4": "Sets the opacity of the element.",
+                            "correct_answer": "Aligns items horizontally in a container."
+                        }
+                        
+                    ]
+            },
+            {
+                "difficulty":"hard",
+                "questions": 
+                    [
+                        {
+                            "title": "What is the difference between <div> and <span> elements?",
+                            "option_1": "<div> is an inline element, while <span> is a block-level element.",
+                            "option_2": "<div> is a block-level element, while <span> is an inline element.",
+                            "option_3": "<div> cannot contain other elements, while <span> can.",
+                            "option_4": "Both <div> and <span> are inline elements.",
+                            "correct_answer": "<div> is a block-level element, while <span> is an inline element."
+                        },
+                        {
+                            "title": "Which CSS property is used to set the opacity of an element?",
+                            "option_1": "visibility",
+                            "option_2": "opacity",
+                            "option_3": "filter",
+                            "option_4": "alpha",
+                            "correct_answer": "opacity"
+                        },
+                        {
+                            "title": "What does the 'position: sticky' property do in CSS?",
+                            "option_1": "It allows an element to scroll with the page until a certain point.",
+                            "option_2": "It keeps the element fixed in its original position regardless of scrolling.",
+                            "option_3": "It makes the element invisible when scrolling.",
+                            "option_4": "It applies a sticky effect to the element only on mobile devices.",
+                            "correct_answer": "It allows an element to scroll with the page until a certain point."
+                        },
+                        {
+                            "title": "Which HTML5 element is used to define navigation links?",
+                            "option_1": "<nav>",
+                            "option_2": "<navigation>",
+                            "option_3": "<links>",
+                            "option_4": "<menu>",
+                            "correct_answer": "<nav>"
+                        },
+                        {
+                            "title": "How can you include an external CSS file in an HTML document?",
+                            "option_1": "<css href='style.css'>",
+                            "option_2": "<link rel='stylesheet' href='style.css'>",
+                            "option_3": "<style src='style.css'>",
+                            "option_4": "<style href='style.css'>",
+                            "correct_answer": "<link rel='stylesheet' href='style.css'>"
+                        },
+                        {
+                            "title": "What does the 'flex-grow' property do in CSS Flexbox?",
+                            "option_1": "Defines the order of flex items.",
+                            "option_2": "Defines the space around flex items.",
+                            "option_3": "Defines how much a flex item can grow relative to the rest.",
+                            "option_4": "Defines the width of flex items.",
+                            "correct_answer": "Defines how much a flex item can grow relative to the rest."
+                        },
+                        {
+                            "title": "Which CSS property can be used to create a responsive image?",
+                            "option_1": "max-width",
+                            "option_2": "responsive",
+                            "option_3": "img-size",
+                            "option_4": "width",
+                            "correct_answer": "max-width"
+                        },
+                        {
+                            "title": "What is the purpose of the 'data-*' attribute in HTML5?",
+                            "option_1": "To store custom data private to the page or application.",
+                            "option_2": "To define metadata for an element.",
+                            "option_3": "To include CSS styles directly in HTML.",
+                            "option_4": "To specify the version of HTML used.",
+                            "correct_answer": "To store custom data private to the page or application."
+                        },
+                        {
+                            "title": "What is the result of using the 'display: none' property on an HTML element?",
+                            "option_1": "The element will still occupy space in the layout.",
+                            "option_2": "The element will be hidden and not occupy space in the layout.",
+                            "option_3": "The element will be visible but with zero opacity.",
+                            "option_4": "The element will be partially visible.",
+                            "correct_answer": "The element will be hidden and not occupy space in the layout."
+                        },
+                        {
+                            "title": "Which CSS property is used to create rounded corners on an element?",
+                            "option_1": "border-radius",
+                            "option_2": "border-corner",
+                            "option_3": "corner-radius",
+                            "option_4": "border-style",
+                            "correct_answer": "border-radius"
+                        },
+                        {
+                            "title": "What does the <canvas> element in HTML5 allow you to do?",
+                            "option_1": "Embed a video in the webpage.",
+                            "option_2": "Create a responsive grid layout.",
+                            "option_3": "Draw graphics on the fly using JavaScript.",
+                            "option_4": "Style elements with CSS.",
+                            "correct_answer": "Draw graphics on the fly using JavaScript."
+                        },
+                        {
+                            "title": "What is the purpose of the <source> element in HTML5?",
+                            "option_1": "To specify alternate video or audio files.",
+                            "option_2": "To define a CSS stylesheet.",
+                            "option_3": "To link to an external JavaScript file.",
+                            "option_4": "To create a hyperlink.",
+                            "correct_answer": "To specify alternate video or audio files."
+                        },
+                        {
+                            "title": "Which property is used to change the text color in CSS?",
+                            "option_1": "color",
+                            "option_2": "text-color",
+                            "option_3": "font-color",
+                            "option_4": "background-color",
+                            "correct_answer": "color"
+                        },
+                        {
+                            "title": "What does the 'visibility' property do in CSS?",
+                            "option_1": "Hides the element but still occupies space.",
+                            "option_2": "Completely removes the element from the layout.",
+                            "option_3": "Makes the element transparent.",
+                            "option_4": "Changes the display type of the element.",
+                            "correct_answer": "Hides the element but still occupies space."
+                        },
+                        {
+                            "title": "What is the difference between 'margin' and 'padding' in CSS?",
+                            "option_1": "'Margin' creates space inside an element, while 'padding' creates space outside.",
+                            "option_2": "'Margin' creates space outside an element, while 'padding' creates space inside.",
+                            "option_3": "They are the same and can be used interchangeably.",
+                            "option_4": "'Margin' is for vertical spacing, while 'padding' is for horizontal spacing.",
+                            "correct_answer": "'Margin' creates space outside an element, while 'padding' creates space inside."
+                        }
+                    ]
+                
+            }
+        ]
+    },
+    {
+        "category":"technology",
+        "levels":[
+            {
+                "difficulty":"easy",
+                "questions":
+                [
+                    {
+                        "title": "What does HTML stand for?",
+                        "option_1": "Hyper Text Markup Language",
+                        "option_2": "High Text Markup Language",
+                        "option_3": "Hyperlink and Text Markup Language",
+                        "option_4": "Hyper Tool Markup Language",
+                        "correct_answer": "Hyper Text Markup Language"
+                    },
+                    {
+                        "title": "Which company developed the iPhone?",
+                        "option_1": "Samsung",
+                        "option_2": "Apple",
+                        "option_3": "Nokia",
+                        "option_4": "Sony",
+                        "correct_answer": "Apple"
+                    },
+                    {
+                        "title": "What is the main function of an operating system?",
+                        "option_1": "Run applications",
+                        "option_2": "Manage hardware and software resources",
+                        "option_3": "Store data",
+                        "option_4": "Provide internet access",
+                        "correct_answer": "Manage hardware and software resources"
+                    },
+                    {
+                        "title": "Which of the following is a popular web browser?",
+                        "option_1": "Microsoft Word",
+                        "option_2": "Google Chrome",
+                        "option_3": "Adobe Photoshop",
+                        "option_4": "Windows Media Player",
+                        "correct_answer": "Google Chrome"
+                    },
+                    {
+                        "title": "What does USB stand for?",
+                        "option_1": "Universal Serial Bus",
+                        "option_2": "Universal System Bus",
+                        "option_3": "Unified Serial Bus",
+                        "option_4": "Universal Socket Bus",
+                        "correct_answer": "Universal Serial Bus"
+                    },
+                    {
+                        "title": "What is the primary purpose of a firewall?",
+                        "option_1": "To store data",
+                        "option_2": "To block unauthorized access",
+                        "option_3": "To speed up internet connections",
+                        "option_4": "To create backups",
+                        "correct_answer": "To block unauthorized access"
+                    },
+                    {
+                        "title": "Which social media platform is known for its bird logo?",
+                        "option_1": "Facebook",
+                        "option_2": "Twitter",
+                        "option_3": "Instagram",
+                        "option_4": "LinkedIn",
+                        "correct_answer": "Twitter"
+                    },
+                    {
+                        "title": "What is the function of a router?",
+                        "option_1": "Store files",
+                        "option_2": "Connect different networks",
+                        "option_3": "Create websites",
+                        "option_4": "Display images",
+                        "correct_answer": "Connect different networks"
+                    },
+                    {
+                        "title": "Which technology is used for wireless internet connections?",
+                        "option_1": "Bluetooth",
+                        "option_2": "Ethernet",
+                        "option_3": "Wi-Fi",
+                        "option_4": "USB",
+                        "correct_answer": "Wi-Fi"
+                    },
+                    {
+                        "title": "What is the main purpose of an antivirus program?",
+                        "option_1": "To enhance graphics",
+                        "option_2": "To protect against malware",
+                        "option_3": "To manage files",
+                        "option_4": "To create backups",
+                        "correct_answer": "To protect against malware"
+                    },
+                    {
+                        "title": "What does the term 'cloud computing' refer to?",
+                        "option_1": "Storing data on a physical server",
+                        "option_2": "Using the internet for data storage and processing",
+                        "option_3": "Creating software applications",
+                        "option_4": "Developing mobile apps",
+                        "correct_answer": "Using the internet for data storage and processing"
+                    },
+                    {
+                        "title": "Which of the following is a common file format for images?",
+                        "option_1": ".doc",
+                        "option_2": ".xls",
+                        "option_3": ".jpg",
+                        "option_4": ".ppt",
+                        "correct_answer": ".jpg"
+                    },
+                    {
+                        "title": "What is the purpose of a search engine?",
+                        "option_1": "To store data",
+                        "option_2": "To display videos",
+                        "option_3": "To find information on the internet",
+                        "option_4": "To protect against viruses",
+                        "correct_answer": "To find information on the internet"
+                    },
+                    {
+                        "title": "Which device is used to input text into a computer?",
+                        "option_1": "Monitor",
+                        "option_2": "Printer",
+                        "option_3": "Keyboard",
+                        "option_4": "Speaker",
+                        "correct_answer": "Keyboard"
+                    },
+                    {
+                        "title": "What does the abbreviation 'HTTP' stand for?",
+                        "option_1": "HyperText Transfer Protocol",
+                        "option_2": "HighText Transfer Protocol",
+                        "option_3": "HyperText Transmission Protocol",
+                        "option_4": "HyperTransfer Text Protocol",
+                        "correct_answer": "HyperText Transfer Protocol"
+                    }                    
+                ]
+            },
+            {
+                "difficulty":"medium",
+                "questions":
+                [
+                    {
+                        "title": "What is the purpose of CSS in web development?",
+                        "option_1": "To structure content",
+                        "option_2": "To style content",
+                        "option_3": "To store data",
+                        "option_4": "To create databases",
+                        "correct_answer": "To style content"
+                    },
+                    {
+                        "title": "What does VPN stand for?",
+                        "option_1": "Virtual Private Network",
+                        "option_2": "Virtual Public Network",
+                        "option_3": "Very Private Network",
+                        "option_4": "Variable Private Network",
+                        "correct_answer": "Virtual Private Network"
+                    },
+                    {
+                        "title": "Which programming language is primarily used for web development?",
+                        "option_1": "Python",
+                        "option_2": "Java",
+                        "option_3": "JavaScript",
+                        "option_4": "C++",
+                        "correct_answer": "JavaScript"
+                    },
+                    {
+                        "title": "What is the main function of a database management system (DBMS)?",
+                        "option_1": "To manage hardware resources",
+                        "option_2": "To provide internet access",
+                        "option_3": "To store and manage data",
+                        "option_4": "To create user interfaces",
+                        "correct_answer": "To store and manage data"
+                    },
+                    {
+                        "title": "Which of the following is a popular cloud storage service?",
+                        "option_1": "Dropbox",
+                        "option_2": "Photoshop",
+                        "option_3": "Microsoft Word",
+                        "option_4": "Excel",
+                        "correct_answer": "Dropbox"
+                    },
+                    {
+                        "title": "What is the function of a compiler?",
+                        "option_1": "To execute code",
+                        "option_2": "To translate high-level code to machine code",
+                        "option_3": "To store data",
+                        "option_4": "To create databases",
+                        "correct_answer": "To translate high-level code to machine code"
+                    },
+                    {
+                        "title": "Which markup language is used for creating web pages?",
+                        "option_1": "XML",
+                        "option_2": "HTML",
+                        "option_3": "JSON",
+                        "option_4": "CSS",
+                        "correct_answer": "HTML"
+                    },
+                    {
+                        "title": "What is the purpose of a server in a network?",
+                        "option_1": "To run applications",
+                        "option_2": "To provide resources and services to clients",
+                        "option_3": "To store user data",
+                        "option_4": "To create backups",
+                        "correct_answer": "To provide resources and services to clients"
+                    },
+                    {
+                        "title": "What does GUI stand for in computing?",
+                        "option_1": "Graphical User Interface",
+                        "option_2": "General User Interface",
+                        "option_3": "Graphical Universal Interface",
+                        "option_4": "General Universal Interface",
+                        "correct_answer": "Graphical User Interface"
+                    },
+                    {
+                        "title": "Which of the following is an example of an operating system?",
+                        "option_1": "Microsoft Excel",
+                        "option_2": "Android",
+                        "option_3": "Google Chrome",
+                        "option_4": "Adobe Photoshop",
+                        "correct_answer": "Android"
+                    },
+                    {
+                        "title": "What is the purpose of a URL?",
+                        "option_1": "To locate a resource on the internet",
+                        "option_2": "To store data",
+                        "option_3": "To create websites",
+                        "option_4": "To manage network traffic",
+                        "correct_answer": "To locate a resource on the internet"
+                    },
+                    {
+                        "title": "Which type of software is used to create graphics?",
+                        "option_1": "Word processor",
+                        "option_2": "Spreadsheet",
+                        "option_3": "Graphics editing software",
+                        "option_4": "Database management software",
+                        "correct_answer": "Graphics editing software"
+                    },
+                    {
+                        "title": "What is the function of the 'cache' in computer systems?",
+                        "option_1": "To store permanent data",
+                        "option_2": "To speed up data access",
+                        "option_3": "To create backups",
+                        "option_4": "To manage user sessions",
+                        "correct_answer": "To speed up data access"
+                    },
+                    {
+                        "title": "What is the primary purpose of a firewall in a computer network?",
+                        "option_1": "To increase internet speed",
+                        "option_2": "To block unauthorized access while permitting outward communication",
+                        "option_3": "To store data",
+                        "option_4": "To provide a backup for data",
+                        "correct_answer": "To block unauthorized access while permitting outward communication"
+                    },
+                    {
+                        "title": "Which protocol is used to send email messages from a client to a server?",
+                        "option_1": "IMAP",
+                        "option_2": "SMTP",
+                        "option_3": "FTP",
+                        "option_4": "HTTP",
+                        "correct_answer": "SMTP"
+                    }
+                ]
+            },
+            {
+                "difficulty":"hard",
+                "questions": 
+                [
+                    {
+                        "title": "What is the primary purpose of DNS in the internet?",
+                        "option_1": "To route data packets",
+                        "option_2": "To translate domain names into IP addresses",
+                        "option_3": "To encrypt data",
+                        "option_4": "To store website content",
+                        "correct_answer": "To translate domain names into IP addresses"
+                    },
+                    {
+                        "title": "Which protocol is used for secure data transmission over the internet?",
+                        "option_1": "HTTP",
+                        "option_2": "FTP",
+                        "option_3": "HTTPS",
+                        "option_4": "SMTP",
+                        "correct_answer": "HTTPS"
+                    },
+                    {
+                        "title": "What does the term 'latency' refer to in network performance?",
+                        "option_1": "The amount of data transferred",
+                        "option_2": "The delay before a transfer of data begins following an instruction",
+                        "option_3": "The speed of data transfer",
+                        "option_4": "The reliability of the connection",
+                        "correct_answer": "The delay before a transfer of data begins following an instruction"
+                    },
+                    {
+                        "title": "In the context of data privacy, what does GDPR stand for?",
+                        "option_1": "General Data Protection Regulation",
+                        "option_2": "Global Data Privacy Regulation",
+                        "option_3": "Generalized Data Privacy Rules",
+                        "option_4": "Global Data Protection Rules",
+                        "correct_answer": "General Data Protection Regulation"
+                    },
+                    {
+                        "title": "What is a potential risk of using public Wi-Fi networks?",
+                        "option_1": "Slower internet speeds",
+                        "option_2": "Data interception by attackers",
+                        "option_3": "Increased bandwidth",
+                        "option_4": "Limited access to websites",
+                        "correct_answer": "Data interception by attackers"
+                    },
+                    {
+                        "title": "Which of the following is a characteristic of cloud computing?",
+                        "option_1": "Permanent data storage",
+                        "option_2": "On-demand network access to a shared pool of configurable resources",
+                        "option_3": "Local data processing",
+                        "option_4": "Limited scalability",
+                        "correct_answer": "On-demand network access to a shared pool of configurable resources"
+                    },
+                    {
+                        "title": "What is the purpose of a firewall in a network?",
+                        "option_1": "To enhance network speed",
+                        "option_2": "To monitor network traffic",
+                        "option_3": "To protect networks from unauthorized access",
+                        "option_4": "To manage network bandwidth",
+                        "correct_answer": "To protect networks from unauthorized access"
+                    },
+                    {
+                        "title": "Which type of database model organizes data into tables that can be linked?",
+                        "option_1": "Hierarchical model",
+                        "option_2": "Network model",
+                        "option_3": "Relational model",
+                        "option_4": "Object-oriented model",
+                        "correct_answer": "Relational model"
+                    },
+                    {
+                        "title": "In cybersecurity, what does the term 'phishing' refer to?",
+                        "option_1": "A method to recover lost data",
+                        "option_2": "A technique used to gain sensitive information by masquerading as a trustworthy entity",
+                        "option_3": "A type of malware",
+                        "option_4": "A method of data encryption",
+                        "correct_answer": "A technique used to gain sensitive information by masquerading as a trustworthy entity"
+                    },
+                    {
+                        "title": "Which technology is commonly used for decentralized finance (DeFi)?",
+                        "option_1": "Artificial Intelligence",
+                        "option_2": "Blockchain",
+                        "option_3": "Big Data",
+                        "option_4": "Cloud Computing",
+                        "correct_answer": "Blockchain"
+                    },
+                    {
+                        "title": "What is a key feature of machine learning?",
+                        "option_1": "It requires manual data entry",
+                        "option_2": "It uses algorithms to learn from data",
+                        "option_3": "It focuses solely on data storage",
+                        "option_4": "It does not utilize data",
+                        "correct_answer": "It uses algorithms to learn from data"
+                    },
+                    {
+                        "title": "What is the role of an API in software development?",
+                        "option_1": "To create user interfaces",
+                        "option_2": "To allow different software applications to communicate with each other",
+                        "option_3": "To manage databases",
+                        "option_4": "To optimize network speed",
+                        "correct_answer": "To allow different software applications to communicate with each other"
+                    },
+                    {
+                        "title": "Which of the following is NOT a type of cloud service?",
+                        "option_1": "IaaS",
+                        "option_2": "PaaS",
+                        "option_3": "SaaS",
+                        "option_4": "DaaS",
+                        "correct_answer": "DaaS"
+                    },
+                    {
+                        "title": "What is the main difference between symmetric and asymmetric encryption?",
+                        "option_1": "Symmetric encryption uses one key for both encryption and decryption, while asymmetric uses a pair of keys.",
+                        "option_2": "Asymmetric encryption is faster than symmetric encryption.",
+                        "option_3": "Symmetric encryption is used for secure communications over the internet.",
+                        "option_4": "Asymmetric encryption is only used for email security.",
+                        "correct_answer": "Symmetric encryption uses one key for both encryption and decryption, while asymmetric uses a pair of keys."
+                    },
+                    {
+                        "title": "Which of the following is a primary feature of blockchain technology?",
+                        "option_1": "Centralized control",
+                        "option_2": "Immutability of data",
+                        "option_3": "High transaction fees",
+                        "option_4": "Limited scalability",
+                        "correct_answer": "Immutability of data"
+                    }
+                ]          
+            }
+        ]
+    },
+    {
+        "category":"sports",
+        "levels":[
+            {
+                "difficulty":"easy",
+                "questions":
+                    [
+                        {
+                            "title": "How many players are there on a soccer team?",
+                            "option_1": "7",
+                            "option_2": "9",
+                            "option_3": "11",
+                            "option_4": "13",
+                            "correct_answer": "11"
+                        },
+                        {
+                            "title": "In which sport can you score a 'hole-in-one'?",
+                            "option_1": "Soccer",
+                            "option_2": "Golf",
+                            "option_3": "Tennis",
+                            "option_4": "Basketball",
+                            "correct_answer": "Golf"
+                        },
+                        {
+                            "title": "Which sport is known as 'the king of sports'?",
+                            "option_1": "Basketball",
+                            "option_2": "Cricket",
+                            "option_3": "Soccer",
+                            "option_4": "Rugby",
+                            "correct_answer": "Soccer"
+                        },
+                        {
+                            "title": "What is the main objective in basketball?",
+                            "option_1": "To score goals",
+                            "option_2": "To score points by shooting the ball through a hoop",
+                            "option_3": "To run the fastest",
+                            "option_4": "To throw a ball the farthest",
+                            "correct_answer": "To score points by shooting the ball through a hoop"
+                        },
+                        {
+                            "title": "In which country did the Olympics originate?",
+                            "option_1": "Greece",
+                            "option_2": "Italy",
+                            "option_3": "Egypt",
+                            "option_4": "China",
+                            "correct_answer": "Greece"
+                        },
+                        {
+                            "title": "What sport is played on a field with bases?",
+                            "option_1": "Soccer",
+                            "option_2": "Baseball",
+                            "option_3": "Cricket",
+                            "option_4": "Football",
+                            "correct_answer": "Baseball"
+                        },
+                        {
+                            "title": "Which sport involves a racket and shuttlecock?",
+                            "option_1": "Tennis",
+                            "option_2": "Badminton",
+                            "option_3": "Squash",
+                            "option_4": "Ping Pong",
+                            "correct_answer": "Badminton"
+                        },
+                        {
+                            "title": "What is the term for a score of zero in tennis?",
+                            "option_1": "Love",
+                            "option_2": "Null",
+                            "option_3": "Zero",
+                            "option_4": "None",
+                            "correct_answer": "Love"
+                        },
+                        {
+                            "title": "How long is a standard marathon race?",
+                            "option_1": "26.2 miles",
+                            "option_2": "20 miles",
+                            "option_3": "15 miles",
+                            "option_4": "30 miles",
+                            "correct_answer": "26.2 miles"
+                        },
+                        {
+                            "title": "Which sport is known for the 'Super Bowl' championship?",
+                            "option_1": "Baseball",
+                            "option_2": "Basketball",
+                            "option_3": "American Football",
+                            "option_4": "Hockey",
+                            "correct_answer": "American Football"
+                        },
+                        {
+                            "title": "What sport does 'The World Series' refer to?",
+                            "option_1": "Basketball",
+                            "option_2": "Baseball",
+                            "option_3": "Soccer",
+                            "option_4": "Football",
+                            "correct_answer": "Baseball"
+                        },
+                        {
+                            "title": "In which sport do players use a cue stick?",
+                            "option_1": "Snooker",
+                            "option_2": "Darts",
+                            "option_3": "Golf",
+                            "option_4": "Bowling",
+                            "correct_answer": "Snooker"
+                        },
+                        {
+                            "title": "What sport is known as 'the beautiful game'?",
+                            "option_1": "Basketball",
+                            "option_2": "Soccer",
+                            "option_3": "Tennis",
+                            "option_4": "Baseball",
+                            "correct_answer": "Soccer"
+                        },
+                        {
+                            "title": "In which sport do teams compete to score points by throwing a ball through a hoop?",
+                            "option_1": "Soccer",
+                            "option_2": "Baseball",
+                            "option_3": "Basketball",
+                            "option_4": "Hockey",
+                            "correct_answer": "Basketball"
+                        },
+                        {
+                            "title": "Which sport involves a racket and a shuttlecock?",
+                            "option_1": "Badminton",
+                            "option_2": "Squash",
+                            "option_3": "Tennis",
+                            "option_4": "Ping Pong",
+                            "correct_answer": "Badminton"
+                        }
+                    ]                
+            },
+            {
+                "difficulty":"medium",
+                "questions":
+                    [
+                        {
+                            "title": "Who holds the record for the most goals scored in World Cup history?",
+                            "option_1": "Pelé",
+                            "option_2": "Ronaldo",
+                            "option_3": "Gerd Müller",
+                            "option_4": "Diego Maradona",
+                            "correct_answer": "Ronaldo"
+                        },
+                        {
+                            "title": "Which country won the first FIFA Women's World Cup in 1991?",
+                            "option_1": "Germany",
+                            "option_2": "United States",
+                            "option_3": "Norway",
+                            "option_4": "Japan",
+                            "correct_answer": "United States"
+                        },
+                        {
+                            "title": "Which athlete has won the most Olympic gold medals?",
+                            "option_1": "Usain Bolt",
+                            "option_2": "Michael Phelps",
+                            "option_3": "Mark Spitz",
+                            "option_4": "Carl Lewis",
+                            "correct_answer": "Michael Phelps"
+                        },
+                        {
+                            "title": "What is the maximum score possible in a single game of ten-pin bowling?",
+                            "option_1": "200",
+                            "option_2": "250",
+                            "option_3": "300",
+                            "option_4": "400",
+                            "correct_answer": "300"
+                        },
+                        {
+                            "title": "In which year did the first modern Olympic Games take place?",
+                            "option_1": "1896",
+                            "option_2": "1900",
+                            "option_3": "1904",
+                            "option_4": "1912",
+                            "correct_answer": "1896"
+                        },
+                        {
+                            "title": "Who is known as 'The Greatest' in boxing?",
+                            "option_1": "Mike Tyson",
+                            "option_2": "Muhammad Ali",
+                            "option_3": "Joe Frazier",
+                            "option_4": "George Foreman",
+                            "correct_answer": "Muhammad Ali"
+                        },
+                        {
+                            "title": "Which country is famous for the sport of rugby?",
+                            "option_1": "Australia",
+                            "option_2": "Canada",
+                            "option_3": "United States",
+                            "option_4": "Brazil",
+                            "correct_answer": "Australia"
+                        },
+                        {
+                            "title": "What is the term for a player who plays both offense and defense in American football?",
+                            "option_1": "Two-way player",
+                            "option_2": "Utility player",
+                            "option_3": "Hybrid player",
+                            "option_4": "Dual-threat player",
+                            "correct_answer": "Two-way player"
+                        },
+                        {
+                            "title": "Which famous golfer is known for his 'swings'?",
+                            "option_1": "Tiger Woods",
+                            "option_2": "Phil Mickelson",
+                            "option_3": "Rory McIlroy",
+                            "option_4": "Jack Nicklaus",
+                            "correct_answer": "Tiger Woods"
+                        },
+                        {
+                            "title": "Which sport is played on a diamond-shaped field?",
+                            "option_1": "Softball",
+                            "option_2": "Baseball",
+                            "option_3": "Cricket",
+                            "option_4": "All of the above",
+                            "correct_answer": "All of the above"
+                        },
+                        {
+                            "title": "What is the length of a soccer field in international matches?",
+                            "option_1": "90-100 meters",
+                            "option_2": "100-110 meters",
+                            "option_3": "110-120 meters",
+                            "option_4": "120-130 meters",
+                            "correct_answer": "100-110 meters"
+                        },
+                        {
+                            "title": "What does the term 'sudden death' mean in sports?",
+                            "option_1": "A type of game over",
+                            "option_2": "The first team to score wins",
+                            "option_3": "A penalty shootout",
+                            "option_4": "An elimination round",
+                            "correct_answer": "The first team to score wins"
+                        },
+                        {
+                            "title": "Which country has hosted the most World Cups?",
+                            "option_1": "Germany",
+                            "option_2": "Brazil",
+                            "option_3": "Italy",
+                            "option_4": "France",
+                            "correct_answer": "Italy"
+                        }, 
+                        {
+                            "title": "Which country won the FIFA World Cup in 2018?",
+                            "option_1": "Brazil",
+                            "option_2": "France",
+                            "option_3": "Germany",
+                            "option_4": "Argentina",
+                            "correct_answer": "France"
+                        },
+                        {
+                            "title": "What is the maximum number of players allowed on a soccer field for one team?",
+                            "option_1": "9",
+                            "option_2": "10",
+                            "option_3": "11",
+                            "option_4": "12",
+                            "correct_answer": "11"
+                        }
+                    ]                
+            },
+            {
+                "difficulty":"hard",
+                "questions":
+                    [
+                        {
+                            "title": "Which country won the FIFA World Cup in 2014?",
+                            "option_1": "Brazil",
+                            "option_2": "Germany",
+                            "option_3": "Italy",
+                            "option_4": "Argentina",
+                            "correct_answer": "Germany"
+                        },
+                        {
+                            "title": "Who is the all-time leading scorer in the UEFA Champions League?",
+                            "option_1": "Cristiano Ronaldo",
+                            "option_2": "Lionel Messi",
+                            "option_3": "Raúl",
+                            "option_4": "Karim Benzema",
+                            "correct_answer": "Cristiano Ronaldo"
+                        },
+                        {
+                            "title": "Which sport is known for the term 'Grand Slam'?",
+                            "option_1": "Tennis",
+                            "option_2": "Golf",
+                            "option_3": "Baseball",
+                            "option_4": "Cricket",
+                            "correct_answer": "Tennis"
+                        },
+                        {
+                            "title": "Which athlete is known for the phrase 'I am the greatest'?",
+                            "option_1": "Michael Jordan",
+                            "option_2": "Muhammad Ali",
+                            "option_3": "Usain Bolt",
+                            "option_4": "Tom Brady",
+                            "correct_answer": "Muhammad Ali"
+                        },
+                        {
+                            "title": "In which year did the first NBA game take place?",
+                            "option_1": "1945",
+                            "option_2": "1946",
+                            "option_3": "1947",
+                            "option_4": "1948",
+                            "correct_answer": "1946"
+                        },
+                        {
+                            "title": "What is the most expensive sports team in the world as of 2021?",
+                            "option_1": "Dallas Cowboys",
+                            "option_2": "Manchester United",
+                            "option_3": "Real Madrid",
+                            "option_4": "New York Yankees",
+                            "correct_answer": "Dallas Cowboys"
+                        },
+                        {
+                            "title": "Who was the first woman to win an Olympic gold medal in boxing?",
+                            "option_1": "Mary Kom",
+                            "option_2": "Claressa Shields",
+                            "option_3": "Katie Taylor",
+                            "option_4": "Nicola Adams",
+                            "correct_answer": "Nicola Adams"
+                        },
+                        {
+                            "title": "What is the maximum number of players allowed on a rugby union team?",
+                            "option_1": "13",
+                            "option_2": "15",
+                            "option_3": "17",
+                            "option_4": "19",
+                            "correct_answer": "15"
+                        },
+                        {
+                            "title": "In which city were the 2008 Summer Olympics held?",
+                            "option_1": "London",
+                            "option_2": "Beijing",
+                            "option_3": "Athens",
+                            "option_4": "Rio de Janeiro",
+                            "correct_answer": "Beijing"
+                        },
+                        {
+                            "title": "Which country is known for the traditional sport of Sumo wrestling?",
+                            "option_1": "China",
+                            "option_2": "Japan",
+                            "option_3": "Korea",
+                            "option_4": "Thailand",
+                            "correct_answer": "Japan"
+                        },
+                        {
+                            "title": "What is the distance of a marathon race in kilometers?",
+                            "option_1": "38.5",
+                            "option_2": "42.195",
+                            "option_3": "40.5",
+                            "option_4": "44",
+                            "correct_answer": "42.195"
+                        },
+                        {
+                            "title": "What is the term for a perfect score in figure skating?",
+                            "option_1": "Ten",
+                            "option_2": "Perfect",
+                            "option_3": "Full marks",
+                            "option_4": "Gold",
+                            "correct_answer": "Perfect"
+                        },
+                        {
+                            "title": "Which sport is associated with the terms 'pitch', 'innings', and 'wicket'?",
+                            "option_1": "Baseball",
+                            "option_2": "Cricket",
+                            "option_3": "Softball",
+                            "option_4": "Golf",
+                            "correct_answer": "Cricket"
+                        },
+                        {
+                            "title": "Which athlete holds the record for the most Olympic gold medals won in a single Olympics?",
+                            "option_1": "Mark Spitz",
+                            "option_2": "Michael Phelps",
+                            "option_3": "Carl Lewis",
+                            "option_4": "Usain Bolt",
+                            "correct_answer": "Michael Phelps"
+                        },
+                        {
+                            "title": "In which year was the first Rugby World Cup held?",
+                            "option_1": "1983",
+                            "option_2": "1987",
+                            "option_3": "1991",
+                            "option_4": "1995",
+                            "correct_answer": "1987"
+                        }
+                    ]                
+            }
+        ]
+    },
+    {
+        "category":"mathematics",
+        "levels":[
+            {
+                "difficulty":"easy",
+                "questions":
+                    [
+                        {
+                            "title": "What is 5 + 3?",
+                            "option_1": "6",
+                            "option_2": "7",
+                            "option_3": "8",
+                            "option_4": "9",
+                            "correct_answer": "8"
+                          },
+                          {
+                            "title": "What is 12 - 4?",
+                            "option_1": "8",
+                            "option_2": "7",
+                            "option_3": "6",
+                            "option_4": "5",
+                            "correct_answer": "8"
+                          },
+                          {
+                            "title": "What is 3 x 4?",
+                            "option_1": "10",
+                            "option_2": "11",
+                            "option_3": "12",
+                            "option_4": "13",
+                            "correct_answer": "12"
+                          },
+                          {
+                            "title": "What is 16 ÷ 4?",
+                            "option_1": "2",
+                            "option_2": "3",
+                            "option_3": "4",
+                            "option_4": "5",
+                            "correct_answer": "4"
+                          },
+                          {
+                            "title": "What is the square of 3?",
+                            "option_1": "6",
+                            "option_2": "9",
+                            "option_3": "12",
+                            "option_4": "15",
+                            "correct_answer": "9"
+                          },
+                          {
+                            "title": "What is the value of π (pi) to two decimal places?",
+                            "option_1": "2.14",
+                            "option_2": "3.14",
+                            "option_3": "3.24",
+                            "option_4": "3.54",
+                            "correct_answer": "3.14"
+                          },
+                          {
+                            "title": "What is 100 - 45?",
+                            "option_1": "50",
+                            "option_2": "55",
+                            "option_3": "65",
+                            "option_4": "75",
+                            "correct_answer": "55"
+                          },
+                          {
+                            "title": "What is the next number in the sequence: 2, 4, 6, ...?",
+                            "option_1": "7",
+                            "option_2": "8",
+                            "option_3": "9",
+                            "option_4": "10",
+                            "correct_answer": "8"
+                          },
+                          {
+                            "title": "What is 9 + 10?",
+                            "option_1": "18",
+                            "option_2": "19",
+                            "option_3": "20",
+                            "option_4": "21",
+                            "correct_answer": "19"
+                          },
+                          {
+                            "title": "What is the perimeter of a square with a side length of 4?",
+                            "option_1": "12",
+                            "option_2": "14",
+                            "option_3": "16",
+                            "option_4": "18",
+                            "correct_answer": "16"
+                          },
+                          {
+                            "title": "How many sides does a triangle have?",
+                            "option_1": "2",
+                            "option_2": "3",
+                            "option_3": "4",
+                            "option_4": "5",
+                            "correct_answer": "3"
+                          },
+                          {
+                            "title": "What is the value of 5²?",
+                            "option_1": "20",
+                            "option_2": "25",
+                            "option_3": "30",
+                            "option_4": "35",
+                            "correct_answer": "25"
+                          },
+                          {
+                            "title": "What is 7 + 8?",
+                            "option_1": "14",
+                            "option_2": "15",
+                            "option_3": "16",
+                            "option_4": "17",
+                            "correct_answer": "15"
+                          },
+                          {
+                            "title": "What is 6 × 7?",
+                            "option_1": "40",
+                            "option_2": "42",
+                            "option_3": "44",
+                            "option_4": "46",
+                            "correct_answer": "42"
+                          },
+                          {
+                            "title": "What is the value of 10 - 3 + 5?",
+                            "option_1": "10",
+                            "option_2": "11",
+                            "option_3": "12",
+                            "option_4": "13",
+                            "correct_answer": "12"
+                          }
+                    ]
+            },
+            {
+                "difficulty":"medium",
+                "questions":
+                    [
+                        {
+                            "title": "What is the value of the square root of 64?",
+                            "option_1": "6",
+                            "option_2": "7",
+                            "option_3": "8",
+                            "option_4": "9",
+                            "correct_answer": "8"
+                          },
+                          {
+                            "title": "What is the formula for the area of a triangle?",
+                            "option_1": "base x height",
+                            "option_2": "(base x height) / 2",
+                            "option_3": "base + height",
+                            "option_4": "base - height",
+                            "correct_answer": "(base x height) / 2"
+                          },
+                          {
+                            "title": "What is 15% of 200?",
+                            "option_1": "25",
+                            "option_2": "30",
+                            "option_3": "35",
+                            "option_4": "40",
+                            "correct_answer": "30"
+                          },
+                          {
+                            "title": "What is the greatest common divisor of 36 and 60?",
+                            "option_1": "6",
+                            "option_2": "12",
+                            "option_3": "18",
+                            "option_4": "24",
+                            "correct_answer": "12"
+                          },
+                          {
+                            "title": "What is the sum of the interior angles of a pentagon?",
+                            "option_1": "360 degrees",
+                            "option_2": "540 degrees",
+                            "option_3": "720 degrees",
+                            "option_4": "900 degrees",
+                            "correct_answer": "540 degrees"
+                          },
+                          {
+                            "title": "What is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, ...?",
+                            "option_1": "4",
+                            "option_2": "5",
+                            "option_3": "6",
+                            "option_4": "7",
+                            "correct_answer": "5"
+                          },
+                          {
+                            "title": "What is the value of 3³?",
+                            "option_1": "9",
+                            "option_2": "27",
+                            "option_3": "12",
+                            "option_4": "18",
+                            "correct_answer": "27"
+                          },
+                          {
+                            "title": "What is the formula for the circumference of a circle?",
+                            "option_1": "πr²",
+                            "option_2": "2πr",
+                            "option_3": "πd",
+                            "option_4": "r²",
+                            "correct_answer": "2πr"
+                          },
+                          {
+                            "title": "What is 8 × 7?",
+                            "option_1": "54",
+                            "option_2": "56",
+                            "option_3": "58",
+                            "option_4": "60",
+                            "correct_answer": "56"
+                          },
+                          {
+                            "title": "What is 50 ÷ 5 + 3?",
+                            "option_1": "10",
+                            "option_2": "11",
+                            "option_3": "12",
+                            "option_4": "13",
+                            "correct_answer": "13"
+                          },
+                          {
+                            "title": "What is the value of 2⁵?",
+                            "option_1": "8",
+                            "option_2": "16",
+                            "option_3": "32",
+                            "option_4": "64",
+                            "correct_answer": "32"
+                          },
+                          {
+                            "title": "What is the median of the numbers 1, 3, 3, 6, 7, 8, 9?",
+                            "option_1": "3",
+                            "option_2": "6",
+                            "option_3": "7",
+                            "option_4": "8",
+                            "correct_answer": "6"
+                          },
+                          {
+                            "title": "What is the result of 10! (10 factorial)?",
+                            "option_1": "100",
+                            "option_2": "720",
+                            "option_3": "3628800",
+                            "option_4": "5040",
+                            "correct_answer": "3628800"
+                          },
+                          {
+                            "title": "What is 25% of 400?",
+                            "option_1": "50",
+                            "option_2": "75",
+                            "option_3": "100",
+                            "option_4": "125",
+                            "correct_answer": "100"
+                          },
+                          {
+                            "title": "What is the value of x in the equation 3x + 4 = 10?",
+                            "option_1": "2",
+                            "option_2": "3",
+                            "option_3": "4",
+                            "option_4": "5",
+                            "correct_answer": "2"
+                          }   
+                    ]                
+            },
+            {
+                "difficulty":"hard",
+                "questions":
+                    [
+                        {
+                            "title": "What is the value of 2π?",
+                            "option_1": "3.14",
+                            "option_2": "6.28",
+                            "option_3": "9.42",
+                            "option_4": "12.56",
+                            "correct_answer": "6.28"
+                          },
+                          {
+                            "title": "What is the area of a circle with a radius of 5?",
+                            "option_1": "25π",
+                            "option_2": "20π",
+                            "option_3": "30π",
+                            "option_4": "35π",
+                            "correct_answer": "25π"
+                          },
+                          {
+                            "title": "What is the value of sin(90 degrees)?",
+                            "option_1": "0",
+                            "option_2": "1",
+                            "option_3": "2",
+                            "option_4": "√2",
+                            "correct_answer": "1"
+                          },
+                          {
+                            "title": "What is the derivative of x²?",
+                            "option_1": "x",
+                            "option_2": "2x",
+                            "option_3": "x²",
+                            "option_4": "3x",
+                            "correct_answer": "2x"
+                          },
+                          {
+                            "title": "What is the integral of 1/x?",
+                            "option_1": "ln(x)",
+                            "option_2": "x²/2",
+                            "option_3": "e^x",
+                            "option_4": "x + C",
+                            "correct_answer": "ln(x)"
+                          },
+                          {
+                            "title": "What is the volume of a sphere with a radius of 3?",
+                            "option_1": "27π",
+                            "option_2": "36π",
+                            "option_3": "9π",
+                            "option_4": "12π",
+                            "correct_answer": "36π"
+                          },
+                          {
+                            "title": "What is the limit of (1/x) as x approaches 0?",
+                            "option_1": "0",
+                            "option_2": "∞",
+                            "option_3": "undefined",
+                            "option_4": "1",
+                            "correct_answer": "undefined"
+                          },
+                          {
+                            "title": "What is the value of the sum of angles in a triangle?",
+                            "option_1": "90 degrees",
+                            "option_2": "180 degrees",
+                            "option_3": "360 degrees",
+                            "option_4": "270 degrees",
+                            "correct_answer": "180 degrees"
+                          },
+                          {
+                            "title": "What is the Pythagorean theorem?",
+                            "option_1": "a² + b² = c²",
+                            "option_2": "a + b = c",
+                            "option_3": "a² - b² = c",
+                            "option_4": "ab = c",
+                            "correct_answer": "a² + b² = c²"
+                          },
+                          {
+                            "title": "What is the factorial of 5?",
+                            "option_1": "60",
+                            "option_2": "120",
+                            "option_3": "24",
+                            "option_4": "30",
+                            "correct_answer": "120"
+                          },
+                          {
+                            "title": "What is the value of log₂(8)?",
+                            "option_1": "2",
+                            "option_2": "3",
+                            "option_3": "4",
+                            "option_4": "5",
+                            "correct_answer": "3"
+                          },
+                          {
+                            "title": "What is the value of 1 + 1/2 + 1/4 + 1/8 ...?",
+                            "option_1": "1",
+                            "option_2": "2",
+                            "option_3": "4",
+                            "option_4": "∞",
+                            "correct_answer": "∞"
+                          },
+                          {
+                            "title": "What is the area of a trapezoid?",
+                            "option_1": "1/2 × (b₁ + b₂) × h",
+                            "option_2": "b × h",
+                            "option_3": "b²",
+                            "option_4": "πr²",
+                            "correct_answer": "1/2 × (b₁ + b₂) × h"
+                          },
+                          {
+                            "title": "What is the distance formula?",
+                            "option_1": "d = √((x₂ - x₁)² + (y₂ - y₁)²)",
+                            "option_2": "d = x + y",
+                            "option_3": "d = x - y",
+                            "option_4": "d = x² + y²",
+                            "correct_answer": "d = √((x₂ - x₁)² + (y₂ - y₁)²)"
+                          },
+                          {
+                            "title": "What is the sum of the first n natural numbers?",
+                            "option_1": "n(n + 1)/2",
+                            "option_2": "n²",
+                            "option_3": "n(n - 1)/2",
+                            "option_4": "n(n + 1)",
+                            "correct_answer": "n(n + 1)/2"
+                          }
+                    ]
+            }
+        ]
+    }
+]

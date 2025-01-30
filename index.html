@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="./main.css">   
+</head>
+<body>
+    <!-- configuration section -->
+    <div class="quiz-details">
+        <h2>Quiz app</h2>
+        <div class="menu menu-category">
+            <label>Select The Category:</label>
+            <select>
+                <option value="0" selected>Programming</option>
+                <option value="1">Technology</option>
+                <option value="2">Sports</option>
+                <option value="3">Mathematics</option>
+            </select>
+        </div>
+        <div class="menu menu-questions">
+            <label>Number Of Questions:</label>
+            <select>
+                <option value="5">5</option>
+                <option value="10" selected>10</option>
+                <option value="15">15</option>
+            </select>
+        </div>
+        <div class="menu menu-difficulty">
+            <label>Select The Difficulty Level:</label>
+            <select>
+                <option value="0" selected>easy</option>
+                <option value="1">meduim</option>
+                <option value="2">hard</option>    
+            </select>
+        </div>
+        <div class="menu menu-timing">
+            <label>Select a Quiz Timer:</label>
+            <select>
+                <option value="30">30s</option>
+                <option value="40">40s</option>
+                <option value="60" selected>60s</option>
+                <option value="90">90s</option>
+                <option value="120">120s</option>
+            </select>
+        </div>
+        <button id="start">Start Quiz</button>
+    </div>
+
+    <!-- quiz section -->
+    <div class="quiz-app">
+        <div class="quiz-info">
+            <div class="category">Category: <span>Programming</span></div>
+            <div class="count">Questions Count: <span></span></div>
+        </div>
+        <div class="quiz-area">
+        </div>
+        <div class="answers-area">
+        </div>
+        <div class="timerAndSubmit">
+            <div class="countdown">
+                <span class="minutes">00</span> : 
+                <span class="seconds">00</span>
+            </div>   
+            <button class="submit-button">Submit Answer</button>             
+        </div>
+        <div class="bullets">
+            <div class="spans">
+            </div>
+        </div>
+    </div>
+
+    <!-- results section -->
+    <div class="results">
+          <h2>Quiz Result</h2>
+          <div class="progress">
+            <div class="circular-progress">
+                <span class="progress-value">0%</span> 
+            </div>
+          </div>
+          <div class="score">
+            Your Score <span>8</span> out of <span>8</span>
+          </div>  
+          <div class="feedback">
+            <p>Great Job! You nailed it!</p>
+          </div>
+          <div class="controls">
+            <button class="home">Home</button>  
+            <button class="tryAgain">Try Again</button>
+          </div>
+    </div>
+    <!-- loading section -->
+    <div class="loading">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <script src="./main.js"></script>
+</body>
+</html>
